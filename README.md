@@ -8,7 +8,7 @@ Template for custom LESS Twitter Bootstrap
     - [Download the master branch](https://github.com/christopherabate/custom-bootstrap/archive/master.zip).
     - Clone the repository: `git clone https://github.com/christopherabate/custom-bootstrap.git` under your project name (ex. `my-project`).
 
-2. Replace every occurence of `custom-bootstrap` by `my-project` in [package.json](./package.json), [bower.json](./bower.json) and [index.html](./index.html).
+2. Replace every occurence of `custom-bootstrap` by `my-project` in [package.json](./package.json), [bower.json](./bower.json) and [kitchensink.html](./kitchensink.html).
 
 3. Install Node modules with `npm install`.
 
@@ -18,4 +18,4 @@ Template for custom LESS Twitter Bootstrap
  
 1. Modify [less/custom-bootstrap.less](./less/custom-bootstrap.less) or/and [less/custom-variables.less](./less/custom-variables.less).
 2. Run `npm-exec grunt` to generate a distribution.
-3. Open [index.html](./index.html) to see the results.
+3. Open [kitchensink.html](./kitchensink.html) to see the results.
