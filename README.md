@@ -1,4 +1,4 @@
-# twbt_custom
+# custom-less-bootstrap
 Template for custom LESS Twitter Bootstrap
 
 ## Quick start
