@@ -5,8 +5,8 @@ Template for custom LESS Twitter Bootstrap
 
 1. Two quick start options:
 
-- [Download the master branch](https://github.com/christopherabate/custom-less-bootstrap/archive/master.zip).
-- Clone the repository: `git clone https://github.com/christopherabate/custom-less-bootstrap.git` under your project name (ex. `my-project`).
+    - [Download the master branch](https://github.com/christopherabate/custom-less-bootstrap/archive/master.zip).
+    - Clone the repository: `git clone https://github.com/christopherabate/custom-less-bootstrap.git` under your project name (ex. `my-project`).
 
 2. Replace every occurence of `custom-less-bootstrap` by `my-project` in [package.json](./package.json), [bower.json](./bower.json) and [index.html](./index.html).
 
